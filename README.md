@@ -1,5 +1,5 @@
 # vue-calendar
-
+vue-calandar 개발샘플 \
 based on [vue-calendar](https://vcalendar.io/?ref=madewithvuejs.com)
 
 ## Project setup
