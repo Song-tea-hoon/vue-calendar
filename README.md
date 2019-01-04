@@ -1,5 +1,7 @@
 # vue-calendar
 
+## based on [vue-calendar](https://vcalendar.io/?ref=madewithvuejs.com)
+
 ## Project setup
 ```
 npm install
